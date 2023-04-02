@@ -1,0 +1,2 @@
+# Search-Engine-Interface-for-Wikipedia
+Wikipedia has so many articles covering various subjects, it would make a great search engine for learning many things, therefore it inspired me to create a search engine application with the aim of making the interface simple and accessible that can generate results, links and images from Wikipedia, inspired by Google’s UI design. Built through HTML, CSS, JavaScript and Wikipedia API. Created to support screen readers and small displays as well.
